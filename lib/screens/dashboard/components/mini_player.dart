@@ -72,14 +72,14 @@ class MiniPlayer extends StatelessWidget {
               Container(
                 width: MediaQuery.of(context).size.width - 50,
                 height: 2.0,
-                color: Colors.pinkAccent,
+                color: Colors.white38,
                 margin: const EdgeInsets.symmetric(horizontal: 9.0),
                 child: Stack(
                   children: [
                     Container(
                       width: 66.0,
                       height: 2.0,
-                      color: Colors.amberAccent,
+                      color: Colors.white,
                     ),
                   ],
                 ),

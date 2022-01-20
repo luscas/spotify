@@ -1,8 +1,13 @@
-# Spotify Clone
-<img src="https://www.scdn.co/i/_global/open-graph-default.png" alt="Spotify Logo" width="250" />
+<center>
+  <img src="screenshots/logo.png" alt="Spotify Logo" width="250" />
+</center>
 
-### Telas
-<img src="screenshots/home.png" alt="Home" width="250" />
+
+# Telas
+## Home
+<img src="screenshots/home.png" alt="Home" width="250" /> <br />
+
+## Player
 <img src="screenshots/player.png" alt="Player" width="250" />
 
 ---
